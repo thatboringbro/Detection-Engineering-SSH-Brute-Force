@@ -39,6 +39,8 @@ With the telemetry pipeline active, I acted as a SOC Analyst to investigate the 
     * Captured and analyzed the critical `res=success` event, flagging exactly when the adversary gained shell access.
     * Validated host attribution by linking the `USER_LOGIN` event to the specific `auditd` session ID.
 
+> **File Path**: `/screenshots/`
+
 ---
 
 ## 💡 Real-World Mitigation Recommendations
@@ -51,4 +53,4 @@ Based on the findings of this simulation, the following controls should be imple
 ---
 
 ### 🎓 Academic & Professional Alignment
-This project applies core logic from my school courses to a cybersecurity context. It serves as a practical application of my **TryHackMe** learnings and certification and **Cisco's NetAcad** studies.
+This project applies core logic from my school courses to a cybersecurity context. It serves as a practical application of my **TryHackMe** SOC L1 modules and **Cisco's CyberOps Associate course on NetAcad** studies.
